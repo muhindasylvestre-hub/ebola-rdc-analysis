@@ -1,4 +1,6 @@
 # Analyse des épidémies d'Ebola en RDC (1976-2025)
+[Consulter le dashboard Power BI](https://app.powerbi.com/links/S-ybJ3j3G-?ctid=53bc24c5-73ad-421a-9408-3ea555be4a07&pbi_source=linkShare)
+
 
 ## Présentation du projet
 ce projet consiste en l'analyse de 16 épidémies d'Ebola survenues en RDC entre 1976-2025 à l'aide de Power BI 
