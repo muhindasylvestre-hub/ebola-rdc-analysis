@@ -31,4 +31,4 @@ Sylvestre Muhinda
 Data analyst Junior
 
 ## Rapport d'analyse
-[consulter le rapport complet](Projet Ebola RDC.pdf)
+[consulter le rapport complet](Projet_Ebola_RDC.pdf)
