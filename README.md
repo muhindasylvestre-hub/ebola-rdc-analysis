@@ -3,7 +3,7 @@
 
 
 ## Présentation du projet
-ce projet consiste en l'analyse de 16 épidémies d'Ebola survenues en RDC entre 1976-2025 à l'aide de Power BI 
+ce projet consiste en l'analyse de 16 épidémies d'Ebola survenues en République Démocratique du Congo entre 1976 et 2025 à l'aide de Power BI 
 
 ## Objectifs
 - Etudier l'évolution des épidémies au fil du temps.
