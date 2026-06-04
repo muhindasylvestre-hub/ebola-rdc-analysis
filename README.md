@@ -30,4 +30,5 @@ ce projet consiste en l'analyse de 16 épidémies d'Ebola survenues en RDC entre
 Sylvestre Muhinda
 Data analyst Junior
 
-
+## Rapport d'analyse
+[consulter le rapport complet](Projet Ebola RDC.pdf)
